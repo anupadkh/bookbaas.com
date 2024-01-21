@@ -1,0 +1,1 @@
+source /anup_files/FILES/programs/venvs/bookbaas/bin/activate
